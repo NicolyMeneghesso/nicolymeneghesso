@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playpen+Sans&size=30&duration=9000&pause=5000&color=F700B8&width=535&lines=Oie%2C+Eu+sou+a+Nicoly+Meneghesso)](https://git.io/typing-svg)
-
+## Oiie, Seja Bem-Vindo
 - :construction_worker: Engenheira Civil
 - 💻 Estudante de Programação
 - :purple_heart: Apaixonada por Tecnologia
@@ -10,8 +9,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" width="55" height="55"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolymeneghesso&hide=issues&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolymeneghesso&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolymeneghesso&hide=issues&show_icons=true&theme=radical)
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
