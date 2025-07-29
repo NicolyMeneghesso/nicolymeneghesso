@@ -1,20 +1,23 @@
-## Oiie, Seja Bem-Vindo
-- :construction_worker: Engenheira Civil
-- 💻 Estudante de Programação
-- :purple_heart: Apaixonada por Tecnologia
+<div align="center">
+  
+## ✨ Oiiie, Seja Bem-Vindo(a)! ✨
 
-## 👨‍💻 Estou aprendendo
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=rails,ruby)](https://skillicons.dev)
+- 🏗️ **Engenheira Civil** que se apaixonou por tecnologia :purple_heart:
+- 💻 **Estudante de Programação** sempre em busca de subir de nível ⚔️ 
+- ☕ Apaixonada por desafios, café e códigos que fazem sentido ✨
 
 ## 🚀 Minhas Skills
 
 ### 👨‍💻 Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,scss,ruby,rails)](https://skillicons.dev)  
 
-### ⚙️ Ferramentas
+### ⚙️ Ferramentas e Frameworks  
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=bootstrap,git,vscode,sqlite)](https://skillicons.dev)  
+
+### 📊 Meu GitHub em ação  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolymeneghesso&layout=compact&theme=radical)
