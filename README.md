@@ -2,9 +2,18 @@
 
 <h1 align="center">✨ Oiie, Seja Bem-Vindo(a)! ✨</h1>
 
-- 🏗️ **Engenheira Civil** que se apaixonou por tecnologia 💗  
-- 💻 **Estudante de Programação**, sempre em busca de subir de nível ⚔️  
-- ☕ Apaixonada por desafios, café e códigos que fazem sentido ✨  
+<div>
+  <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200px"/>
+
+  <p>
+    <br>
+    🏗️ <strong>Engenheira Civil</strong> que se apaixonou por tecnologia 💗 <br>
+    💻 <strong>Estudante de Programação</strong>, sempre em busca de subir de nível ⚔️ <br>
+    ☕ Apaixonada por desafios, café e códigos que fazem sentido ✨ <br>
+  </p>
+
+  <br>
+</div>
 
 ## 💻 Estudando
 
