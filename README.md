@@ -17,7 +17,7 @@
 
 ## 💻 Estudando
 
-<img src="https://skillicons.dev/icons?i=react,ts" alt="Linguagens" />
+<img src="https://skillicons.dev/icons?i=react" alt="Linguagens" />
 
 ## 🚀 Minhas Skills
 
