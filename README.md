@@ -23,13 +23,17 @@
 
 ### 👨‍💻 Linguagens
 
-<img src="https://skillicons.dev/icons?i=js,html,css,scss,ruby,rails" alt="Linguagens" />
+<img src="https://skillicons.dev/icons?i=js,html,css,ruby" alt="Linguagens: JavaScript, HTML, CSS, Ruby" />
 
----
+### 📚 Frameworks & Bibliotecas
 
-### ⚙️ Ferramentas e Frameworks  
+<img src="https://skillicons.dev/icons?i=rails,bootstrap,sass" alt="Frameworks: Ruby on Rails, Bootstrap, Sass" />
 
-<img src="https://skillicons.dev/icons?i=bootstrap,git,vscode,sqlite" alt="Ferramentas" />
+### 🗄️ Bancos de Dados
+<img src="https://skillicons.dev/icons?i=sqlite,mysql" alt="Banco de Dados: SQLite" />
+
+### 🧰 Ferramentas
+<img src="https://skillicons.dev/icons?i=git,vscode,docker" alt="Ferramentas: Git, VS Code, Docker" /> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
 
 ## 📊 Meu GitHub em ação  
 
